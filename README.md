@@ -1,6 +1,6 @@
 ### DwiiUnknown
 
-Hi, my name is Satya Bagus Dwiatmaja. Im a High School Student, my hobby is doing programming related stuff.
+Hi, my name is Satya Bagus Dwiatmaja. Im a High School Student, my hobby is doing programming related stuff & playing games on my PC.
 Im also like to make websites using Vue, React, PHP, and maybe Plain HTML5.
 
 Now im Developer at [Auron Empire Minecraft Server](https://auronempire.com) & Front-end Developer at [Mizu Development](https://mizudev.net).
