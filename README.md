@@ -6,7 +6,7 @@
 </a>
 <br/>
 <a href="https://github.com/ItzMeDwii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DwiiUnknown&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DwiiUnknown&theme=radical&layout=compact" />
 </a>
 <br/>
 <a href="https://github.com/ItzMeDwii">
